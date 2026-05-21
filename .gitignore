@@ -1,0 +1,13 @@
+build/
+out/
+src/teste-ignore/
+src/backup-codigo/
+
+# IDEs
+.vscode/
+.vs/
+.cache/
+
+# CLion
+cmake-build-debug/
+cmake-build-release/
